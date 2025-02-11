@@ -21,7 +21,7 @@ Creates a YTMusic popup that shows what song you are listening to on stream
 2. Me because I learned a lot
 
 # Example Picture
-![image](https://github.com/user-attachments/assets/319a2478-1ddc-4c8f-9a29-41202cea3796)
+![image](https://github.com/user-attachments/assets/cd25f3e8-5ca1-46d9-b988-3e46f8232964)
 
 
 
