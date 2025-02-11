@@ -20,7 +20,7 @@ Creates a YTMusic popup that shows what song you are listening to on stream
 1. DougDoug for most of OBS Websockets code (I was struggling to figure it out)
 2. Me because I learned a lot
 
-##ExamplePicture
+#ExamplePicture
 ![image](https://github.com/user-attachments/assets/319a2478-1ddc-4c8f-9a29-41202cea3796)
 
 
