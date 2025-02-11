@@ -1,12 +1,12 @@
-![image](https://github.com/user-attachments/assets/ff984567-a2d4-4f93-aecb-235f79c1d718)# OBS-YTMusic-Popup
+# OBS-YTMusic-Popup
 
 Creates a YTMusic popup that shows what song you are listening to on stream
 
 ## Table of Contents
-- [Installation](#Installation)
-- [Notes](#Notes)
-- [Shoutouts](#Shoutouts)
-- [ExamplePicture](#ExamplePicture)
+- [Installation](#installation)
+- [Notes](#notes)
+- [Shoutouts](#shoutouts)
+- [ExamplePicture](#examplepicture)
 
 ##Installation
 1. Clone repository
@@ -18,9 +18,9 @@ Creates a YTMusic popup that shows what song you are listening to on stream
 ##Notes
 1. OBS HAS to be open
 2. You do need to create the source yourself
-  - Folder named Music with all sources you want to be shown
-  - "MusicText" for text source unless you change the code
-3. I have F8 set to stop the loop but I just recommend closing the terminal
+    Folder named Music with all sources you want to be shown
+    "MusicText" for text source unless you change the code
+4. I have F8 set to stop the loop but I just recommend closing the terminal
 
 ##Shoutouts
 1. DougDoug for most of OBS Websockets code (I was struggling to figure it out)
