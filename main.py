@@ -16,6 +16,7 @@ while running:
 
     # print("NewSong: " + SongTitle)
     # print("OldSong: " + TempTitle)
+    # this is a test
 
     if keyboard.is_pressed("f8"):
         running = False
